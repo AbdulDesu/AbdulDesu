@@ -29,21 +29,12 @@ I build scalable mobile and web products, from the app in your pocket to the bac
 ### 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://stats.abdulrichard.site/api?username=Abduldesu&show_icons=true&count_private=true&include_all_commits=true&hide=stars,issues&rank_icon=github&theme=github_dark&hide_border=true&v=2" />
-    <img height="165" alt="GitHub Stats" src="https://stats.abdulrichard.site/api?username=Abduldesu&show_icons=true&count_private=true&include_all_commits=true&hide=stars,issues&rank_icon=github&theme=github_dark&hide_border=true&v=2" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://stats.abdulrichard.site/api/top-langs/?username=Abduldesu&layout=compact&langs_count=10&count_private=true&hide=cmake&theme=github_dark&hide_border=true&v=2" />
-    <img height="165" alt="Top Languages" src="https://stats.abdulrichard.site/api/top-langs/?username=Abduldesu&layout=compact&langs_count=10&count_private=true&hide=cmake&theme=github_dark&hide_border=true&v=2" />
-  </picture>
+  <img height="165" alt="GitHub Stats" src="https://stats.abdulrichard.site/api?username=Abduldesu&show_icons=true&count_private=true&include_all_commits=true&hide=stars%2Cissues&rank_icon=github&theme=github_dark&hide_border=true&v=3" />
+  <img height="165" alt="Top Languages" src="https://stats.abdulrichard.site/api/top-langs/?username=Abduldesu&layout=compact&langs_count=10&count_private=true&hide=cmake&theme=github_dark&hide_border=true&v=3" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Abduldesu&theme=github-dark-blue&hide_border=true&v=2" />
-    <img height="165" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Abduldesu&theme=github-dark-blue&hide_border=true&v=2" />
-  </picture>
+  <img height="165" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Abduldesu&theme=github-dark-blue&hide_border=true&v=3" />
 </p>
 
 ---

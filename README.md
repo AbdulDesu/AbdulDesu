@@ -1,4 +1,5 @@
-<h1 align="center">Abdul Richard</h1>
+<h1 align="center"><a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?width=500&height=90&backgroundColor=%23000000&backgroundOpacity=0&border=false&lines=%5B%7B%22text%22%3A%22Welcome+to+My+Profile%22%2C%22color%22%3A%22%2300b4d8%22%2C%22typingSpeed%22%3A0.16666666666666666%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22My+Name+Is+Abdul+Richard%22%2C%22color%22%3A%22%2300b4d8%22%2C%22typingSpeed%22%3A0.16666666666666666%2C%22deleteSpeed%22%3A0.08333333333333333%7D%5D" alt="Typing SVG" /></a></h1>
+
 
 <p align="center">
   <b>Software Engineer</b> · Founder of <b>ABRADTech</b><br />

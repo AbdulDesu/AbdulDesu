@@ -14,7 +14,7 @@
 
 ---
 
-I build scalable mobile and web products, from the app in your pocket to the backend systems behind it. With 6+ years of hands-on experience, I care about clean architecture, performance, and software that is easy to maintain.
+I build scalable mobile and web products, from the app in your pocket to the backend systems behind it. With 5+ years of hands-on experience, I care about clean architecture, performance, and software that is easy to maintain.
 
 
 
